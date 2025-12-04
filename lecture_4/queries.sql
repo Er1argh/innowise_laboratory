@@ -1,7 +1,3 @@
--- Drop existing tables
-DROP TABLE IF EXISTS grades;
-DROP TABLE IF EXISTS students;
-
 -- Table: students
 -- Stores personal information about each student.
 -- Fiels:
